@@ -13,5 +13,5 @@ Try the following:
 All actions update instantly without reloading.
  📍Preview
 
-![To-Do List](to-do preview.png)
+![To-Do List](to-do.png)
 
